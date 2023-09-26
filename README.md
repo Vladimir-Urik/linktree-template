@@ -1,7 +1,7 @@
-# Free Maintenance Card Template
+# Free LinkTree Template
 
 ## Preview
-![Preview](https://i.imgur.com/85NL1aB.gif)
+![Preview](https://i.imgur.com/MQWhOsC.png)
 
 ## EASY TO EDIT
 ![Easy to edit](https://i.imgur.com/DtkRbQG.png)
