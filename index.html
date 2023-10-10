@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
 </head>
-<body>
+<body onload="onLoad()">
 <div class="container">
     <div class="image" style="background-image: url('./images/bg.webp')">
         <img src="./images/avatar.webp" alt="Portfolio Card" class="avatar">
@@ -21,7 +21,7 @@
             <p>
                 LinkedIn
             </p>
-            <a href="https://www.linkedin.com/in/vladimirurik/" target="_blank" class="social-link">
+            <a href="https://www.linkedin.com/in/vladimirurik/" target="_blank" class="social-link linkedin">
                 Open
             </a>
         </div>
@@ -54,5 +54,27 @@
         </div>
     </div>
 </div>
+
+<button class="darkmode-button" onclick="changeColor()">
+</button>
 </body>
+<footer>
+    <script>
+        function changeColor() {
+            let element = document.body;
+            element.classList.toggle("dark");
+
+            localStorage.setItem("darkmode", element.classList.contains("dark"));
+        }
+
+        function onLoad() {
+            let element = document.body;
+            let darkmode = localStorage.getItem("darkmode");
+
+            if (darkmode === "true") {
+                element.classList.add("dark");
+            }
+        }
+    </script>
+</footer>
 </html>
