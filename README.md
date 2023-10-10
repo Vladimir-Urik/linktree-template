@@ -1,7 +1,7 @@
 # Free LinkTree Template
 
 ## Preview
-![Preview](https://i.imgur.com/MQWhOsC.png)
+![Preview](https://i.imgur.com/kulkG6j.gif)
 
 ## EASY TO EDIT
 ![Easy to edit](https://i.imgur.com/DtkRbQG.png)
