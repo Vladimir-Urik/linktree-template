@@ -1,10 +1,10 @@
 # Free LinkTree Template
 
 ## Preview
-![Preview](https://i.imgur.com/MQWhOsC.png)
+![Preview](https://i.imgur.com/kulkG6j.gif)
 
 ## EASY TO EDIT
-![Easy to edit](https://i.imgur.com/DtkRbQG.png)
+![Easy to edit](https://i.imgur.com/8kyvFxb.png)
 
 ## LICENSE
 Free to use, no credit required. But if you want to credit me, just do it, it's always appreciated :)
